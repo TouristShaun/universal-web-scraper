@@ -1,0 +1,5 @@
+selenium=3.14159265
+
+transformers=4.9.2
+
+requests=2.25.1
